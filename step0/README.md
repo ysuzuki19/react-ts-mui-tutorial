@@ -3,7 +3,13 @@ Setup environment and check.
 
 # Setup
 
-install node.js
+Please install node.js
+
+## Ubuntu
+```bash
+$ apt update
+$ apt install nodejs
+```
 
 # Check
 Can you use each command?
